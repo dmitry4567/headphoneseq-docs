@@ -26,7 +26,7 @@ header {
   text-decoration: none;
 }
 
-.logo span { color: #a78bfa; }
+.logo span { color: #92EC7E; }
 
 nav {
   margin-left: auto;
@@ -81,7 +81,7 @@ ul, ol {
 
 li { margin-bottom: 6px; }
 
-a { color: #a78bfa; text-decoration: none; }
+a { color: #92EC7E; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 hr {
